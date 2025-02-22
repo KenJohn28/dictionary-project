@@ -1,0 +1,15 @@
+body {
+  background: #F5F1FE;
+}
+
+.App-header {
+  margin: 30px 0;
+}
+
+.App-logo{
+  mix-blend-mode: multiply;
+  transform: scaleX(-1);
+  max-width: 200px;
+  
+  margin: 0 auto;
+}
