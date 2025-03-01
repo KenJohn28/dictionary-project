@@ -39,8 +39,5 @@
   },
   "engines": {
     "node": "18.x"
-  },
-  "devDependencies": {
-    "webpack": "^5.98.0"
   }
 }
